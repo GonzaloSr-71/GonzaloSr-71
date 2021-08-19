@@ -1,5 +1,5 @@
 - 🖐 Hi, I’m @GonzaloSr-71
-- 💀 I’m interested in programing/engineering/science 
+- I’m interested in programing/engineering/science 
 - ♦️ I’m currently learning python/java/C
 - 🔷️ I’m looking to collaborate on cool projects
 - 📭 How to reach me : jonshibt@gmail.com 
